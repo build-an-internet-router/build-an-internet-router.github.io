@@ -12,9 +12,6 @@ permalink: /documentation/
     * [PWOSPF Specification]({{ site.baseurl }}/documentation/pwospf)
     * [Debugging with p4app]({{ site.baseurl }}/documentation/debugging-p4app)
 
-[//]: # (* [Building an Internet Router]({{ site.baseurl }}/documentation/internet-router))
-[//]: # (* [Starter Code Overview]({{ site.baseurl }}/documentation/starter-code))
-
 * **Learning P4:**
 
     * [P4 Tutorial 1 - Introduction to Data Plane Programming](https://www.youtube.com/watch?v=4w-jEr99pBE&feature=youtu.be)

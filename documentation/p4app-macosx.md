@@ -31,7 +31,7 @@ brew install git
 * **Clone the p4app github repo:**
 
 ```
-git clone https://github.com/2021-cs344/p4app.git
+git clone https://github.com/build-an-internet-router/p4app.git
 ```
 
 

@@ -8,7 +8,7 @@ Step 1 - Repo Access
 
 Each student should send an email to the all the [course instructors]({{ site.baseurl }}/staff) with his/her GitHub username. Please create a GitHub account if you do not already have one. GitHub will be used extensively throughout this course. Working with git is an exceptionally useful skill to have, especially if you plan to do any open-source code development.
 
-After the instructor receives your email, you will be added to the [2021-cs344](https://github.com/2021-cs344) GitHub organization and you should have access to the [2021-cs344/2021-cs344-project](https://github.com/2021-cs344/2021-cs344-project) repository. Please email the instructor if you are having trouble accessing the repository.
+After the instructor receives your email, you will be added to the [build-an-internet-router](https://github.com/build-an-internet-router) GitHub organization and you should have access to the [build-an-internet-router/build-an-internet-router-project](https://github.com/build-an-internet-router/build-an-internet-router-project) repository. Please email the instructor if you are having trouble accessing the repository.
 
 Step 2 - Development Environment Familiarization
 ------
@@ -62,7 +62,7 @@ Here are the steps to set up the virtual machine on your laptop:
 6. Clone the p4app repository. Open a terminal in the VM and run:
 ```
 cd ~
-git clone https://github.com/2021-cs344/p4app.git
+git clone https://github.com/build-an-internet-router/p4app.git
 ```
 
 7. Test that p4app works by running an example:
@@ -73,7 +73,7 @@ git clone https://github.com/2021-cs344/p4app.git
 Step 4 - Setting Up Your Fork (First Assignment, Individual)
 ------
 
-* Create a *private* fork of the [2021-cs344/maclearning-exercise](https://github.com/2021-cs344/maclearning-exercise) repo.
+* Create a *private* fork of the [build-an-internet-router/maclearning-exercise](https://github.com/build-an-internet-router/maclearning-exercise) repo.
 
 You should setup your *private* fork by creating a new private repository, and [duplicating/mirroring](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository) the original repository. 
 
@@ -92,7 +92,7 @@ Step 5 - Setting Up Your Fork (Team Project)
 
 Before continuing with the following steps, you should have completed the first assignment and formed a team. The following steps should be done together with your team.
 
-* Create a *private* fork of the [2021-cs344/2021-cs344-project](https://github.com/2021-cs344/2021-cs344-project) repo.
+* Create a *private* fork of the [build-an-internet-router/build-an-internet-router-project](https://github.com/build-an-internet-router/build-an-internet-router-project) repo.
 
 You may fork the repo into a personal GitHub account or you may create a new GitHub organization for the team and fork the repo there.
 
@@ -117,7 +117,7 @@ Step 7 - Sign up for Team Meeting Slots
 
 Teams will be required to meet with instructors and discuss their current progress and next steps. These meetings are mainly used to ensure that teams are making progress and are on the right track. Instructors will be available to meeting with teams during the scheduled lecture slots since not all lectures will be held. Each team must sign up for two meeting slots before the interoperability test and two meeting slots after for a total of 4 meetings. Please sign up for your first two meeting slots before this deliverable is due.
 
-[Team Meeting Slots](https://github.com/2021-cs344/2021-cs344.github.io/wiki/Team-Meeting-Slots)
+[Team Meeting Slots](https://github.com/build-an-internet-router/build-an-internet-router.github.io/wiki/Team-Meeting-Slots)
 
 Step 8 - Review Documentation and Schedule
 ------

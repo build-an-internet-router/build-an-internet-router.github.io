@@ -12,7 +12,7 @@ permalink: /schedule/
     * Logistics and administration
 
 
-* **Due by 11:59 PM:** [Course Application](https://docs.google.com/forms/d/1evWweqRZRIBPiKKT9XZBgMipggjUjXx2QsqYZxBKcQg) 
+* **Due by 11:59 PM:** [Course Application](https://XXXXXX) 
 
 ---
 
@@ -75,7 +75,7 @@ permalink: /schedule/
 
 4/19:
 * Lecture 6 Topics:
-    * Network Monitoring (Guest lecture by JK Lee)
+    * XXX (Guest lecture by XXX)
 
 ---
 
@@ -99,7 +99,7 @@ permalink: /schedule/
 
 4/28:
 * Lecture 8 Topics:
-    * Developing and testing P4 programs with Tofino (Guest lecture by Georgios Nikolaidis)
+    * XXX
 
 ---
 
@@ -119,9 +119,6 @@ permalink: /schedule/
 * Working sessions in class
 
 ---
-
-5/6:
-* **Due by 11:59PM:** [Developing and Testing P4 Programs with Tofino]({{ site.baseurl }}/deliverables/tofino-model)
 
 5/8:
 * **Due by 11:59PM:** [Proposal for design challenge project]({{ site.baseurl }}/deliverables/design-challenge)
@@ -160,7 +157,7 @@ permalink: /schedule/
 
 5/24:
 * Lecture 9 Topics:
-    * NanoPU (Guest Lecture by Steve Ibanez)   
+    * XXX (Guest Lecture by XXX)
 
 ---
 

@@ -32,7 +32,6 @@ You're required to implement and test your ideas using BMv2 and Mininet. If need
 
 ### Network Monitoring
 
-* [Network Monitoring Lecture](https://cs344-stanford.github.io/lectures/Lecture-4-Chang-Kim-BFN.pdf)
 * [Marple paper](http://web.mit.edu/marple/marple-sigcomm17.pdf)
 * [Sonata paper](https://arxiv.org/pdf/1705.01049.pdf)
 * What sorts of interesting network monitoring techniques can you develop using an event-driven architecture?
@@ -64,7 +63,7 @@ You're required to implement and test your ideas using BMv2 and Mininet. If need
 
 # Submission
 
-Each team should email your proposal to the instructors using the subject line: CS344 Project Proposal - Team-X
+Each team should email your proposal to the instructors using the subject line: CSXXX Project Proposal - Team-X
 
 
 

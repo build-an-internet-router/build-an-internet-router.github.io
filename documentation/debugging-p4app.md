@@ -31,7 +31,7 @@ title: Debugging with p4app
 
 # Mininet Console
 
- - You can launch a [Mininet console from the p4app entry point](https://github.com/2021-cs344/p4app/blob/rc-2.0.0/examples/wire.p4app/main.py#L13) (`main.py`).
+ - You can launch a [Mininet console from the p4app entry point](https://github.com/build-an-internet-router/p4app/blob/rc-2.0.0/examples/wire.p4app/main.py#L13) (`main.py`).
  - The console can be used for inspecting Mininet, for example:
     - Show the interfaces for switch `s1`: `mininet> py s1.intfs`
     - Show help: `mininet> help`
